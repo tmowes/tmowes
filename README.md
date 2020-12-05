@@ -7,7 +7,7 @@
   [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:t-mowes@hotmail.com)
 </p>
 
-- Procurando trabalho de desenvolvimento de sistemas web com NextJS e aplicativos com React Native.
+- Procurando trabalho de desenvolvimento de sistemas web com ReactJS/NextJS e aplicativos com React-Native.
 - Estudante de NodeJS, NextJS, ReactJS e React-Native na Rocketseat e de BIG DATA na UNIASSELVI.
 - Sou pró-ativo, dedicado, focado e apaixonado em resolver problemas.
 - Estudo atualmente: Typescript, React-Native e NextJS.
