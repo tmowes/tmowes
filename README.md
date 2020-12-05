@@ -4,7 +4,7 @@
 <p align="center">
   
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julio-cesar-mowes/)
-  [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:t-mowes@hotmail.com)
+  [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tmowes.zen@gmail.com)
 </p>
 
 - Procurando trabalho de desenvolvimento de sistemas web com ReactJS/NextJS e aplicativos com React-Native.
