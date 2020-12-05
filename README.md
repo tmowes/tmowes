@@ -8,9 +8,8 @@
 </p>
 
 - Procurando trabalho de desenvolvimento de sistemas web com ReactJS/NextJS e aplicativos com React-Native.
-- Estudante de NodeJS, NextJS, ReactJS e React-Native na Rocketseat e de BIG DATA na UNIASSELVI.
+- Estudante de Typescript, NodeJS, NextJS, ReactJS e React-Native na Rocketseat e de BIG DATA na UNIASSELVI.
 - Sou pró-ativo, dedicado, focado e apaixonado em resolver problemas.
-- Estudo atualmente: Typescript, React-Native e NextJS.
 
 **Linguagens e Ferramentas:**
 
