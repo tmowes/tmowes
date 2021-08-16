@@ -7,8 +7,8 @@
   [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tmowes.zen@gmail.com)
 </p>
 
-- Procurando trabalho de desenvolvimento de sistemas web com ReactJS/NextJS e aplicativos com React-Native.
-- Estudante de Typescript, NodeJS, NextJS, ReactJS e React-Native na Rocketseat e de BIG DATA na UNIASSELVI.
+- Procurando trabalho de desenvolvimento de aplicativos com React-Native e sistemas web com ReactJS/NextJS.
+- Formação em Typescript, NodeJS, NextJS, ReactJS e React-Native na Rocketseat e estudante de BIG DATA na UNIASSELVI.
 - Sou pró-ativo, dedicado, focado e apaixonado em resolver problemas.
 
 **Linguagens e Ferramentas:**
