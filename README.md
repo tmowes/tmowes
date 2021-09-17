@@ -5,7 +5,7 @@
   
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julio-cesar-mowes/)
   [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tmowes.zen@gmail.com)
-  [<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=skyliner&label=rocketseat&message=tmowes&color=orange" />](https://app.rocketseat.com.br/me/tmowes/)
+  [<img src="https://img.shields.io/static/v1?style=for-the-badge&label=rocketseat&message=tmowes&color=orange" />](https://app.rocketseat.com.br/me/tmowes/)
 </p>
 
 - Procurando trabalho de desenvolvimento de aplicativos com React-Native e sistemas web com ReactJS/NextJS.
