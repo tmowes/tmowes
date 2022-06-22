@@ -9,8 +9,7 @@
 </p>
 
 - Procurando trabalho de desenvolvimento de aplicativos com React-Native e sistemas web com ReactJS/NextJS.
-- Formação em Typescript, NodeJS, NextJS, ReactJS e React-Native na Rocketseat e estudante de BIG DATA na UNIASSELVI.
-- Sou pró-ativo, dedicado, focado e apaixonado em resolver problemas.
+- Formação em Typescript, NodeJS, NextJS, ReactJS e React-Native na Rocketseat e BIG DATA na UNIASSELVI.
 
 **Linguagens e Ferramentas:**
 
