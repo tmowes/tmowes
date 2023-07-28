@@ -8,8 +8,8 @@
   [<img src="https://img.shields.io/static/v1?style=for-the-badge&label=rocketseat&message=tmowes&color=orange" />](https://app.rocketseat.com.br/me/tmowes/)
 </p>
 
-- Procurando trabalho de desenvolvimento de aplicativos com React-Native e sistemas web com ReactJS/NextJS.
-- Formação em Typescript, NodeJS, NextJS, ReactJS e React-Native na Rocketseat e BIG DATA na UNIASSELVI.
+Com formação em Big Data e Inteligência Analítica, focado em impulsionar a eficiencia com o poder dos dados. 
+Experiência em desenvolvimento de aplicações modernas coloca a tecnologia a serviço do crescimento, com ênfase na segurança da informação e preparação para desafios tecnológicos futuros.
 
 **Linguagens e Ferramentas:**
 
